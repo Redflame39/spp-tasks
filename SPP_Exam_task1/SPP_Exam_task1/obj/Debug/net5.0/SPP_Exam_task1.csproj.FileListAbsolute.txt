@@ -1,0 +1,16 @@
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.exe
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.deps.json
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.runtimeconfig.json
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.runtimeconfig.dev.json
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.dll
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\ref\SPP_Exam_task1.dll
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\bin\Debug\net5.0\SPP_Exam_task1.pdb
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.AssemblyInfoInputs.cache
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.AssemblyInfo.cs
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.dll
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\ref\SPP_Exam_task1.dll
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.pdb
+F:\Coding\C#\SPP_Exam_task1\SPP_Exam_task1\obj\Debug\net5.0\SPP_Exam_task1.genruntimeconfig.cache
